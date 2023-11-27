@@ -18,7 +18,7 @@
       "Settings":true,
       "Database":false,
       "Combo_list":false,
-      "Proxy_list":false
+      "Proxy_list":true
    },
    "Dynamic_Sleep":{
       "Proxyless_Delay_Multiplier":0.7,
