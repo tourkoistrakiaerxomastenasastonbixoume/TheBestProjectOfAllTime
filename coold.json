@@ -21,7 +21,7 @@
       "Proxy_list":true
    },
    "Dynamic_Sleep":{
-      "Proxyless_Delay_Multiplier":0.850,
+      "Proxyless_Delay_Multiplier":1.500,
       "Hit_time_remover":0.2,
       "Additional_delay_on_bad":7.2
    }
