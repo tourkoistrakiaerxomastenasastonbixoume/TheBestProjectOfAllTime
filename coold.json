@@ -17,7 +17,7 @@
       "Screenshot":true,
       "Settings":true,
       "Database":false,
-      "Combo_list":false,
+      "Combo_list":true,
       "Proxy_list":true
    },
    "Dynamic_Sleep":{
